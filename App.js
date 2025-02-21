@@ -3,7 +3,6 @@ import StackNavigator from './StackNavigator';
 import Router from "./Router";
 export default function App() {
   return (
-      //  <StackNavigator/>
        <Router/>
   
   );
